@@ -4,7 +4,7 @@ codepath pre-work project
 
 Submitted by: **Haneen Mustafa**
 
-**Random color generator** is an app that... [Generates a random background color when the user clicks the button in the middle of the screen. The app also features information about the creator of the app (Haneen Mustafa)] 
+**Random color generator** is an app that... generates a random background color when the user clicks the button in the middle of the screen. The app also features information about the creator of the app (Haneen Mustafa).
 
 Time spent: **2** hours spent in total
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://imgur.com/MbxwTmv.gif
+https://imgur.com/a/zoy9aBN.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... KAP
