@@ -49,3 +49,15 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+APP BRAINSTORMING:
+FAVORITE APPS:
+1. Reddit:
+Reddit is one of my favorie applications due to the anonymous aspect of the app. I also enjoy the fact that there are many different groups within reddit where people with simillar interests can talk and collaborate. It is also a great place to go when you have certain questions that you can't find the answer to on the internet.
+2. Instagram:
+Instagram is one of my favorite apps because it is widely used by people everywhere, making it easy to connect with friends and family. I like that Instagram gives users the option to be creative with their platforms as well. You can use this platform both anonymously or share your personal life on the app.
+3. X (formerly known as twitter):
+I enjoy the way that X keeps posts short and simple. The character limit is nice and is a feature that is unique to twitter posts. I also like that this app is mainly used to share links and post quick thoughts.
+
+APPS I WOULD LIKE TO CREATE:
+An app I would like to create is an app where users can trade clothes. These apps have been unsuccessful in the past, so I would try to get influencers to endorse the app, and even trade clothes with other app users to gain popularity for the app. I love fashion and I love clothes so this would be an app I would definitely want to introduce to the app store.
